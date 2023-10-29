@@ -1,5 +1,5 @@
-# webhook-go-selfhosted
-When doing nothing, I do this.
+# webhook-go
+## When doing nothing, I do this.
 
 DOD: 
 - Backend written in Go
